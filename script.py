@@ -2,8 +2,8 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I'm a filter bot working for@CM_CHats
+My admin strictly said that work only for Cinematoos:)
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,16 +48,16 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @PabBots</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>Cinematoos Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>My Channel :</b> @CinematoosNe    
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b> Creator :</b> @PabBots
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Group :</b> @CM_Chats
 
 """
