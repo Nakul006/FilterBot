@@ -133,6 +133,7 @@ EG;
 ![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
 
 ## Credits
+@PabBots
 
 <p align="left">
   <a href="https://github.com/pyrogram/pyrogram">
