@@ -1,7 +1,9 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
+    
 I'm an advanced filter bot with many Abilities!
+
 Only My Dev can manage me... 😉
 Do You Know A secret... "I'm a different bot"
 Made with ❤️ By @Pablo_NK
