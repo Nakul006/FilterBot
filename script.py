@@ -31,7 +31,7 @@ click <i>/help</i> for know me better 😊.</b>
 /status  -  Shows current status of your bot (Auth User Only)
 /id  -  Shows ID information
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-<b>© @TroJanzHEX</b>
+<b>© @Pablo_NK</b>
 """
 
 
